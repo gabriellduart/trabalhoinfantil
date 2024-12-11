@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    font-family: Comic Sans 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.voltar {
+    display: flex;
+    margin-left: 700px;
+    margin-top: 10px;
+    font-size: 2.5rem;
+    width: 77px;
+    height: 75px;
+    font-family: Comic Sans 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.texto{
+    margin: 100px;
+    font-family: Comic Sans 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.2rem;
+}
+
+.nav2{
+    display: flex;
+    align-items: center;
+   justify-content: center;
+   border-style:initial;
+   background-color: black;
+   color: white;
+   border: 2px solid;
+}
+
+.branco{
+   background-color: white;
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+section{
+    display: flex;
+    margin: 100px;
+}
+
+
+.tab {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.tab img {
+ margin: 0 10px;
+ width: 550px;
+ height: 500;
+    object-fit: cover;
+    
+}
